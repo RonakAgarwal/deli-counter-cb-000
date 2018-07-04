@@ -10,7 +10,7 @@ def line(katz_deli)
   end
   puts phrase
 end
-end
+
 
 #take a number
 def take_a_number(katz_deli, name)
